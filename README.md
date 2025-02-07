@@ -1,20 +1,57 @@
-# ikura-bot
+# 🐟 Ikura-BOT  
+**A powerful and feature-rich Discord bot for moderation, utilities, and fun!**  
 
-## 🐟 Ikura-BOT
-A feature-rich Discord bot for moderation, utilities, and fun!
+---
 
+## 🚀 Features  
+Ikura-BOT enhances your Discord server with a variety of features, including:  
 
-## 🚀 Features
-Ikura-BOT offers various features to enhance your Discord experience, including:
-✅ Moderation (/ban, /kick, /warn, /clear)
-✅ Utilities (/ping, /invite, /setlogchannel)
-✅ Information (/serverinfo, /userinfo, /weather [location])
-✅ Fun & Miscellaneous (/avatar, /reactionrole)
-✅ Leveling System (Earn XP and level up by chatting!)
+### 🛡️ Moderation  
+- `/ban @user` → Ban a user from the server  
+- `/kick @user` → Kick a user from the server  
+- `/warn @user` → Issue a warning to a user  
+- `/clear [amount]` → Bulk delete messages  
 
-## 📝 Terms of Service & Privacy Policy
-By using this bot, you agree to our Terms of Service and Privacy Policy.
+### ⚙️ Utilities  
+- `/ping` → Check bot latency  
+- `/invite` → Get the bot invite link  
+- `/setlogchannel #channel` → Set the logging channel  
 
-## 💌 Support & Contact
-Need help? Join our support server: [https://discord.gg/w9tdWyKu6D]
-Maintained by yukinaslwx 🚀
+### ℹ️ Information  
+- `/serverinfo` → Get details about the server  
+- `/userinfo @user` → View user profile info  
+- `/weather [location]` → Check the weather of any city  
+
+### 🎉 Fun & Miscellaneous  
+- `/avatar @user` → View a user’s profile picture  
+- `/reactionrole` → Set up reaction-based roles  
+
+### 🎮 Leveling System  
+- Gain XP by chatting in the server  
+- Automatically level up and receive rewards  
+
+---
+
+## 🐜 Terms of Service & Privacy Policy  
+By using this bot, you agree to our:  
+📝 **[Terms of Service](TERMS_OF_SERVICE.md)**  
+🔒 **[Privacy Policy](PRIVACY_POLICY.md)**  
+
+---
+
+## 📌 Getting Started  
+1️⃣ **Invite Ikura-BOT to your server** → [Click Here](https://discord.com/oauth2/authorize?client_id=981545479882027068&permissions=8&scope=bot%20applications.commands) *(Replace with invite link)*  
+2️⃣ **Use `/setlogchannel #channel`** to configure logs  
+3️⃣ **Enjoy the features and have fun! 🎉**  
+
+---
+
+## 💌 Support & Contact  
+Need assistance? Have a question? Join our support server!  
+🔗 **[Support Server](https://discord.gg/w9tdWyKu6D)**  
+
+🛠 Maintained by **yukinaslwx** 🚀  
+
+---
+
+🌟 **This README is well-structured, engaging, and easy to read. You can modify it by adding images, formatting, or additional sections as needed!** 🚀
