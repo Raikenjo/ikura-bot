@@ -52,4 +52,3 @@ Need assistance? Have a question? Join our support server!
 
 🛠 Maintained by **yukinaslwx** 🚀  
 
----
