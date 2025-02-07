@@ -40,7 +40,7 @@ By using this bot, you agree to our:
 ---
 
 ## 📌 Getting Started  
-1️⃣ **Invite Ikura-BOT to your server** → [Click Here](https://discord.com/oauth2/authorize?client_id=981545479882027068&permissions=8&scope=bot%20applications.commands) *(Replace with invite link)*  
+1️⃣ **Invite Ikura-BOT to your server** → [Click Here](https://discord.com/oauth2/authorize?client_id=981545479882027068&permissions=8&scope=bot%20applications.commands)
 2️⃣ **Use `/setlogchannel #channel`** to configure logs  
 3️⃣ **Enjoy the features and have fun! 🎉**  
 
@@ -53,5 +53,3 @@ Need assistance? Have a question? Join our support server!
 🛠 Maintained by **yukinaslwx** 🚀  
 
 ---
-
-🌟 **This README is well-structured, engaging, and easy to read. You can modify it by adding images, formatting, or additional sections as needed!** 🚀
